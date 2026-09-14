@@ -1,0 +1,3 @@
+In "HTML Basics" and "CSS Basics" there are many files essentially acting as my notes for what I was learning in HTML and CSS as well as a few small assignments. 
+
+"Project CSS" Contains the bigger projects I was doing to demonstrate more of my learning. There are 4 in total, each under a folder with a self-explanatory name.
